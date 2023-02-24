@@ -1,0 +1,19 @@
+html
+{
+	min-height: 100%;
+	margin-bottom: 1px;
+}
+
+html, body
+{
+	color: #FFFFFF;
+	background: black url(back.png);
+	background-attachment:fixed;
+}
+
+body
+{
+	width: 800px;
+	margin-left: auto;
+	margin-right: auto;
+}
